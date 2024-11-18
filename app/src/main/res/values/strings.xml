@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Order_Food</string>
+    <string name="intro_title">Nhanh tay đặt món\n<font color="#0990C8"> Giao tận nơi, ngon trọn vị</font></string>
+    <string name="intro_text">App đặt đồ ăn của chúng tôi giúp bạn kết  \n nối nhanh chóng với các nhà hàng và quán \n ăn yêu thích. Chỉ vài thao tác đơn bạn có thể \n giản,  đặt món và nhận hàng tận nơi, đảm bảo \n tiện lợi, nhanh chóng, và chất lượng! </string>
+    <string name="intro_signing">Đã có tài khoản? <font color="#6033ba">Đăng nhập</font></string>
+    <string name="welcome_back">Welcome back</string>
+</resources>
